@@ -1,5 +1,5 @@
 body{
-    background-image: url("Immagini/background.jpg");
+    background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
@@ -7,7 +7,7 @@ body{
 
 @font-face {
     font-family: wigrum;
-    src: url(fonts/Wigrum.otf);
+    src: url(Wigrum.otf);
 }
 
 .conteiner{
